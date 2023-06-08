@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import FooterCard from '../FooterCard/FooterCard'
+import FooterCard from '../Cards/FooterCard/FooterCard'
 
 
 const Liste = [

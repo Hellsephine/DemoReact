@@ -1,4 +1,4 @@
-import Button from "../Button/button";
+import Button from "../Buttons/SimpleButton/button";
 
 const Title = () => {
     const handleClick = () => {};

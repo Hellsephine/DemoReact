@@ -1,5 +1,5 @@
-import Button from "../Button/button";
-import CardLink from "../Card/cardLink";
+import Button from "../Buttons/SimpleButton/button";
+import CardLink from "../Cards/Card/cardLink";
 import "./maintext.css";
 
 
