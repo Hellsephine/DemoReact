@@ -28,13 +28,13 @@ const Liste = [
 
 const Footer = () => {
   return (
-    <div className='Footer'>
+      <footer className='Footer'>
         <div className='FooterOrga'>
-      {Liste.map((Liste) => (
-        <FooterCard id={Liste.id} title={Liste.title} p={Liste.p} />
-        ))}
+          {Liste.map((Liste) => (
+            <FooterCard id={Liste.id} title={Liste.title} p={Liste.p} />
+          ))}
         </div>
-    </div>
+      </footer>
   )
 }
 

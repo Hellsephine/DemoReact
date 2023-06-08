@@ -18,7 +18,6 @@ const Header = () => {
                 <Button text="Documention" onClick={handleClick} />
             </div>
         </div>
-        
     </header>
   );
 };
