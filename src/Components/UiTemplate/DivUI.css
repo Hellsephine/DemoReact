@@ -40,4 +40,8 @@
     color: #505256;
     margin-bottom: 0;
   }
+
+  .divMiniCard{
+    display: flex;
+  }
   
