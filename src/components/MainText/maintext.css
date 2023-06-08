@@ -1,0 +1,16 @@
+.cardDiv {
+    display: flex;
+    justify-content: center;
+}
+.titre {
+    text-align: left;
+    padding-left: 150px;
+}
+.features {
+    text-align: left;
+    padding-left: 150px;
+}
+.text{
+    text-align: left;
+    padding-left: 150px;
+}
