@@ -1,10 +1,10 @@
 import './App.css';
-import Header from './Components/Header/header';
-import Maincard from './Components/Maincard/maincard';
-import Title from './Components/Title/title';
-import Footer from './Components/Footer/Footer';
-import MainText from './Components/MainText/maintext';
-import DivUI from './Components/UiTemplate/DivUI';
+import Header from './components/Header/header';
+import Maincard from './components/Maincard/maincard';
+import Title from './components/Title/title';
+import Footer from './components/Footer/Footer';
+import MainText from './components/MainText/maintext';
+import DivUI from './components/UiTemplate/DivUI';
 
 
 function App() {

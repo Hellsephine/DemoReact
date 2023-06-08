@@ -1,7 +1,8 @@
 import React from 'react'
 import './DivUI.css'
-import ButtonBlack from '../ButtonBlack/buttonBlack'
 import MiniCard from '../MiniCard/MiniCard'
+import ButtonBlack from '../ButtonBlack/buttonBlack'
+
 
 const MiniCardListe = [
   {
