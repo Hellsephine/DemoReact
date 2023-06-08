@@ -1,0 +1,40 @@
+a {
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+}
+p {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    line-height: 24px;
+    color: #333333;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.card {
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    display: inline-block;
+    width: 18%;
+    padding: 5px;
+    padding-left: 40px;
+}
+.card:first-child {
+    padding-left: 12%;
+}
